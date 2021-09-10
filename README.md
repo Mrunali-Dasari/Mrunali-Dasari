@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mrunali-Dasari
-- 👀 I’m interested in solving real world problems through data!
+- 👀 I’m love solving real world problems through data!
 - 🌱 I’m currently learning indepth python for data visualization/analysis
 - 📫 How to reach me mrunalidasari2000@gmail.com
 
